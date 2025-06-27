@@ -40,6 +40,7 @@ Commute Ranges:
 Observation:
 People with short commutes (0–1 miles) are more likely to purchase bikes.
 Purchases drop significantly for commutes longer than 5 miles.
+
 🧮 Slicers & Filters Used
 
 The dashboard includes interactive slicers to filter the data dynamically based on:
